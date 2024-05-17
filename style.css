@@ -1,0 +1,95 @@
+body {
+	background: #3B4664;
+	width: 850px;
+    height: 660px;
+    top: -108px;
+    left: 2608px;
+    padding: 90px 256px 90px 256px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.container {
+	width: 500px;
+    height: 120px;
+    top: 150px;
+    left: 350px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0px;
+    text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.cal-box {
+	width: 256px;
+	height: 500px;
+	gap: 0px;
+	border-radius: 12px 0px 0px 0px;
+	opacity: 0px;
+	background: #252D44;
+		
+	
+}
+
+#display {
+ width: 230px;
+ height: 80px;
+top: 90px;
+left: 215px;
+gap: 0px;
+border-radius: 12px 0px 0px 0px;
+opacity: 0px;
+background: #181F32;
+margin-bottom: 80px;
+}
+
+.button {
+	margin: 15px 0 0 5px;
+	width: 50px;
+	height: 50px;
+	border: none;
+	outline: none;
+	font-size: 18px;
+	font-weight: bold;
+	cursor: pointer;
+	border-radius: 8px;
+	background-color: rgb(214, 214, 214);
+	box-shadow: 5px 5px 10px #b6acac,
+		-5px -5px 10px #faf4f4;
+	display: inline-block;
+}
+
+.button:active {
+	box-shadow: inset 1px 1px 2px #babecc,
+        inset -1px -1px 2px #fff;
+}
+
+.Resetbutton {
+	color: #647299;
+	background-color: red;
+	width: 450px;
+    height: 80px;
+    gap: 0px;
+    border-radius: 11.52px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.mathbutton {
+	color: white;
+	background-color: black;
+	
+	 
+}
+#Delbutton {
+	color: #647299;
+	background-color: red;
+	width: 100px;
+    height: 60px;
+    left: 366px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0px;
+}
